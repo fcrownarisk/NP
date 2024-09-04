@@ -1,7 +1,7 @@
-void  function PPP(){
-void 'emitter =   |_|_|_|'
-void 'collector=  |/   /|'
-void 'base =      |     |'
-void 'collecotor= |/   /|'
-void 'emitter =   |_|_|_|'
+export function PPP(){
+ 'emitter =   |_|_|_|'
+ 'collector=  |/   /|'
+ 'base =      |     |'
+ 'collecotor= |/   /|'
+ 'emitter =   |_|_|_|'
 }
