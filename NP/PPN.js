@@ -5,6 +5,6 @@ export function PPN(){
   'emitter =   |_|_|_|'
   'collector = |/   /|'
   'base =      |     |'
-  'collector = |/   \|'
+  'collector = |\   \|'
   'emitter =   |_|_|_|'
 }
