@@ -1,4 +1,3 @@
 function emitter(){
-  return `Math.tan !== Math.atan
-               NPN !== PNP`
+  return `Math.tan !== Math.atan`
 }
