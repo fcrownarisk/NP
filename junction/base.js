@@ -1,3 +1,3 @@
 function base(){
-   return `Math.sin && Math.asin`
+   return `sin && asin`
 }
