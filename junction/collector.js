@@ -1,3 +1,3 @@
 function collector(){
-   return `Math.cos || Math.acos`
+   return `cos || acos`
 }
